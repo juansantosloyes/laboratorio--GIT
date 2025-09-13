@@ -51,7 +51,16 @@ Haz un merge de la rama "development" a la rama "main".
 Si no hay conflictos, los cambios realizados en la rama "development" se incorporarán a la rama "main".
 Hax un push de los cambios al repositorio en GitHub.
 
+git checkout master
+
 https://github.com/juansantosloyes/laboratorio--GIT
+git pull origin master
+git merge development
+git add .
+git commit
+git push origin master
+
+
 
 ```
 
