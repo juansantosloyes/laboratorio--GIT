@@ -53,14 +53,14 @@ Hax un push de los cambios al repositorio en GitHub.
 
 git checkout master
 
-https://github.com/juansantosloyes/laboratorio--GIT
+
 git pull origin master
 git merge development
 git add .
 git commit
 git push origin master
 
-
+https://github.com/juansantosloyes/laboratorio--GIT
 
 ```
 
